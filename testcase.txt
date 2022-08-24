@@ -1,0 +1,43 @@
+
+Positive test cases for simple calculator project :
+1.Validate all arithmetic operations (+, -, /, *, %, etc.) work properly.
+2.Verify the sum or equals key works properly.
+3.Verify all numbers work properly (0-9).
+4.Validate the bracket keys work.
+5.Verify the square and square root keys work.
+6.Validate using decimal characters yields the correct result.
+7.Validate the number of digits allowed in the calculator for an operation.
+8.Ensure the memory functions work as expected.
+9.Validate previous calculations can be viewed.
+10.Verify the addition of two integer numbers.
+11.Verify the addition of two negative numbers.
+12.Verify the addition of one positive and one negative number.
+13.Verify the subtraction of two integer numbers.
+14.Verify the subtraction of two negative numbers.
+15.Verify the subtraction of one negative and one positive number.
+16.Verify the multiplication of two integer numbers.
+17.Verify the multiplication of two negative numbers.
+18.Verify the multiplication of one negative and one positive number.
+19.Verify the division of two integer numbers.
+20.Verify the division of two negative numbers.
+
+
+
+Negative test cases for siple calculator project: (Unexpected User behaviour)
+1. Trying a operation which results in a number which is out of the calculator range
+2. Verify output of 0/-0.
+3. Verify output of -0/-0.
+4. Verify output of 2+*4.
+5. Verify output of 2+++5.
+6. Verify output of 2---5.
+7. Verify output of --2++5.
+8. Verify output of 5+ then enter.
+9. Verify output of 5- then enter.
+10. Verify output of 5* then enter.
+11. Verify output of 5/ then enter.
+12. Verify output of 5+ then enter two times.
+13. Verify output of 5- then enter two times.
+14. Verify output of 5* then enter two times.
+15. Verify output of 5/ then enter two times.
+16. Verify output of 0/0.
+17. Verify output of 1/0.
